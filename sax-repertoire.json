@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Tableaux de Provence",
+    "composer": "Paule Maurice",
+    "year": 1958,
+    "instrumentation": "Alto Saxophone & Piano",
+    "difficulty": "Advanced",
+    "duration": "14:00",
+    "publisher": "Leduc",
+    "recording_url": "https://youtu.be/example",
+    "notes": "Cornerstone French repertoire."
+  },
+  {
+    "title": "Sonata",
+    "composer": "Paul Creston",
+    "year": 1939,
+    "instrumentation": "Alto Saxophone & Piano",
+    "difficulty": "Intermediate+",
+    "duration": "12:00",
+    "publisher": "Shawnee",
+    "recording_url": "https://youtu.be/example2",
+    "notes": "Standard American repertoire."
+  }
+]
